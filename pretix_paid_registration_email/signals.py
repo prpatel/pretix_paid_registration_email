@@ -25,13 +25,14 @@ def receiver(sender, order, **kwargs):
         if not position.attendee_email:
             continue
 
-        print("order object")
-        pprint(vars(order))
-        print("event object")
-        pprint(vars(order.event))
-        print("order.position")
-        pprint(vars(position.item))
+        # print("order object")
+        # pprint(vars(order))
+        # print("event object")
+        # pprint(vars(order.event))
+        # print("order.position")
+        # pprint(vars(position.item))
         mail_subject = 'Your Ticket for %s' % (order.event.name)
+        mail_subject2 = 'Audit: ticket sold for %s' % (order.event.name)
         template_name = '%s.txt' % (order.event.slug)
         print('template name')
         pprint(template_name)
@@ -52,4 +53,5 @@ def receiver(sender, order, **kwargs):
         }
         # order.event.settings.mail_text_order_paid
         mail(position.attendee_email, mail_subject, template_name , email_context, order.event)
+        mail('audit@connectevents.io', mail_subject2, template_name , email_context, order.event)
 
