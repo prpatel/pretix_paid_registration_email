@@ -4,7 +4,8 @@ IMPORTANT - THE WORKSHOPS REQUIRE A WORKSHOP/CONFERENCE COMBO REGISTRATION,
 Please ensure your ticket listed below says 'WORKSHOP COMBO' if that is what you intended to buy!
 <br/>
 <br/>
-Your ticket includes: {{item_purchased}}<br/>
+Your ticket includes: <b>{{item_purchased}}</b>
+<br/>
 for: <br/>
 {{event}} <br/>
 {{attendee_email}}<br/>
