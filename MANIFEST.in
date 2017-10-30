@@ -1,0 +1,3 @@
+recursive-include pretix_paid_registration_email/static *
+recursive-include pretix_paid_registration_email/templates *
+recursive-include pretix_paid_registration_email/locale *

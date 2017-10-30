@@ -1,0 +1,34 @@
+You are on your way to {{event}}!
+
+IMPORTANT - THE WORKSHOPS REQUIRE A WORKSHOP/CONFERENCE COMBO REGISTRATION
+
+The ticket for {{event}} is ready for
+{{attendee_email}}
+{{attendee_name}}
+Location: {{location}}
+
+Your ticket for {{event}} was ordered by: {{ordered_by}}
+Order number: {{code}}
+
+Discounted rooms are available at the conference hotel. You may book by following the link on {{url}} or by calling the venue and referencing {{event}}
+
+Event passes for registered attendees will be available for pick-up at the registration desk; please bring this email, on your phone or printed out.
+
+{{event}} CONFERENCE ONLY registration will entitle the named holder entrance to the main conference, only.
+{{event}} WORKSHOP/CONFERENCE registration will entitle the named holder entrance to the full 3-day conference.
+
+The content of {{event}} 2018 is subject to change without notification.
+Your ticket is transferable by contacting the organizer until TWO WEEKS before the conference start date.
+No refunds will be issued within TWO WEEKS of the conference start date.
+The {{event}} organizers will not be liable for any direct or indirect damage of any nature arising out of the cancellation of the conference.
+Please make sure you understand our code of conduct which is available {{url}}
+Our terms of service are available to view at {{url}}/tos.html
+
+Please contact us at {{contact_mail}} if you have any questions.
+
+thank you,
+The {{event}} team
+{{url}}
+
+
+
