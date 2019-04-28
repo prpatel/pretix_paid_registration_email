@@ -1,0 +1,51 @@
+<h2>You are on your way to {{event}}!</h2>
+
+IMPORTANT - THE WORKSHOPS ARE INCLUDED IN THIS TICKET!
+<br/>
+<br/>
+Your ticket includes: <b>{{item_purchased}}</b>
+<br/>
+for: <br/>
+{{event}} <br/>
+{{attendee_email}}<br/>
+{{attendee_name}}<br/>
+Location: {{location}}<br/>
+
+Your ticket for {{event}} was ordered by: {{ordered_by}}<br/>
+Order number: {{code}}<br/>
+<br/>
+Discounted rooms are available at the conference hotel. You may book by following the link on {{url}} or by calling the venue and referencing {{event}}
+<br/>
+<br/>
+Event passes for registered attendees will be available for pick-up at the registration desk; please bring this email, on your phone or printed out.
+<br/>
+<br/>
+{{event}} CONFERENCE ONLY registration will entitle the named holder entrance to the main conference, only.
+<br/>
+{{event}} WORKSHOP/CONFERENCE registration will entitle the named holder entrance to the full 3-day conference.
+<br/>
+<br/>
+Your ticket is transferable by contacting the organizer until TWO WEEKS before the conference start date.
+<br/>
+<br/>
+No refunds will be issued within TWO WEEKS of the conference start date.
+<br/>
+The {{event}} organizers will not be liable for any direct or indirect damage of any nature arising out of the cancellation of the conference.
+<br/>
+Please make sure you understand our code of conduct which is available {{url}}
+<br/>
+<br/>
+The content of {{event}} 2018 is subject to change without notification.
+<br/>
+Our terms of service are available to view at {{url}}/tos.html
+<br/>
+
+Please contact us at {{contact_mail}} if you have any questions.
+<br/>
+
+thank you,
+The {{event}} team
+{{url}}
+
+
+

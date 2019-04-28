@@ -1,0 +1,56 @@
+SUCCESS! We successfully received your payment for {{event}}. Thank you!
+
+You are on your way to {{event}}. 
+
+
+<br/>
+IMPORTANT - THE WORKSHOPS REQUIRE A WORKSHOP/CONFERENCE COMBO REGISTRATION, Please ensure your ticket listed below says 'WORKSHOP COMBO' if that is what you intended to buy!
+
+<br/>
+Your ticket includes:
+<br/>
+for: <br/>
+{{event}} <br/>
+{{attendee_email}}<br/>
+{{attendee_name}}<br/>
+Location: {{location}}<br/>
+<br/>
+
+Your ticket for {{event}} was ordered by: {{ordered_by}}<br/>
+Order number: {{code}}<br/>
+<br/>
+<br/>
+
+Discounted rooms are available at the conference hotel. You may book by following the link on {{url}} or by calling the hotel and referencing {{event}}
+<br/>
+<br/>
+Event passes for registered attendees will be available for pick-up at the registration desk; please bring this email, on your phone or printed out.
+<br/>
+<br/>
+CONFERENCE ONLY registration will entitle the named holder entrance to the main conference, only.
+<br/>
+{{event}} WORKSHOP/CONFERENCE registration will entitle the named holder entrance to the full 3-day conference.
+<br/>
+<br/>
+Your ticket is transferable by using the link in the payment verification email until TWO WEEKS before the conference start date.
+<br/>
+<br/>
+No refunds will be issued within TWO WEEKS of the conference start date.
+<br/>
+The {{event}} organizers will not be liable for any direct or indirect damage of any nature arising out of the cancellation of the conference.
+<br/>
+Please make sure you understand our code of conduct which is available here {{url}}
+<br/>
+<br/>
+The content of {{event}} is subject to change without notification.
+<br/>
+Our terms of service are available to view at {{url}}/tos.html
+<br/>
+
+Please contact us at {{contact_mail}} if you have any questions.
+<br/>
+
+thank you,
+The {{event}} team
+{{url}}
+

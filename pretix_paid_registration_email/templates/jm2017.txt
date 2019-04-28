@@ -1,0 +1,10 @@
+<h2>You are on your way to {{event}}!</h2>
+
+<br/>
+Your ticket includes: <b>{{item_purchased}}</b>
+<br/>
+for: <br/>
+{{event}} <br/>
+{{attendee_email}}<br/>
+{{attendee_name}}<br/>
+Location: {{location}}<br/>

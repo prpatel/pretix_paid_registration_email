@@ -1,0 +1,58 @@
+Welcome to {{event}}!
+
+We successfully received your payment and this is your ticket.
+
+You are on your way to {{event}}, a unique conference on all things Data Science, Machine Learning, Data Analytics and AI.
+This event is at the Cobb Galleria Centre Atlanta, 28-30 November 2018. Please make sure you understand our code of conduct and privacy policy which can be found here http://datascicon.tech/
+
+Your ticket includes:
+<b>{{item_purchased}}</b>
+
+IMPORTANT - THE WORKSHOPS REQUIRE A WORKSHOP/CONFERENCE COMBO REGISTRATION,
+Please ensure your ticket listed above says 'WORKSHOP COMBO' if that is what you intended to buy!
+
+<br/>
+{{event}} <br/>
+{{attendee_name}}<br/>
+{{attendee_email}}<br/>
+Location:
+{{location}}<br/>
+<br/>
+
+
+Your ticket for {{event}} was ordered by:
+{{ordered_by}}<br/>
+Order number: {{code}}<br/>
+<br/>
+<br/>
+
+Discounted rooms are available at the conference hotel. You may book by following the link on {{url}} or by calling the hotel and referencing {{event}}
+<br/>
+<br/>
+Event passes for registered attendees will be available for pick-up at the registration desk; please bring this email, on your phone or printed out. 
+<br/>
+<br/>
+{{event}} CONFERENCE ONLY registration will entitle the named holder entrance to the main conference on 29-30 November 2018
+<br/>
+<br/>
+{{event}} WORKSHOP/CONFERENCE COMBO registration will entitle the named holder entrance to the WORKSHOP DAY on 28 November 2018 and, the main conference on 29-30 November 2018
+<br/>
+<br/>
+Your ticket is transferable by using the link in the payment verification email until TWO WEEKS before the conference start date.
+<br/>
+<br/>
+No refunds will be issued within TWO WEEKS of the conference start date.
+<br/>
+<br/>
+The {{event}} organizers will not be liable for any direct or indirect damage of any nature arising out of the cancellation of the conference.
+<br/>
+<br/>
+The content of {{event}} is subject to change without notification.
+<br/>
+<br/>
+Please contact us at hello@connectevents.io if you have any questions. 
+<br/>
+<br/>
+Thank you,
+The {{event}} team
+{{url}}
